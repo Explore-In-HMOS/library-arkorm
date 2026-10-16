@@ -1,9 +1,9 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # ArkORM
 
 A **type-safe**, fully open-source ORM for HarmonyOS Next with a fluent query builder and relation support. Inspired by Android Room, written in pure ArkTS.
-You can access the demo application click here 👉 **[ArkORM Demo](https://github.com/Explore-In-HMOS-Wearable/library-arkorm/tree/main/example)**
+You can access the demo application click here 👉 **[ArkORM Demo](https://github.com/Explore-In-HMOS/library-arkorm/tree/main/example)**
 
 ## Features
 
