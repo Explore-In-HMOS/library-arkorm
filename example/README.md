@@ -4,7 +4,7 @@
 <img src="./screenshots/ss.jpg" width="20%" />
 </div>
 
-A small but **complete** HarmonyOS Next (ArkTS) application that demonstrates
+A small but **complete** HarmonyOS (ArkTS) application that demonstrates
 **[ArkORM](https://ohpm.openharmony.cn/#/en/detail/@explore-in-hmos%2Farkorm)** — a type-safe, pure-ArkTS
 ORM for HarmonyOS (Android-Room-inspired).
 
@@ -52,7 +52,7 @@ A single page (`pages/Index.ets`) with:
 
 ## 🧱 Tech stack & requirements
 
-- **HarmonyOS Next / API 12+** (ArkORM requires API 12 or newer)
+- **HarmonyOS / API 12+** (ArkORM requires API 12 or newer)
 - **DevEco Studio** (with the matching HarmonyOS SDK)
 - **ArkTS** (strict mode), Stage model
 - **@explore-in-hmos/arkorm** `^1.0.0` (declared in `entry/oh-package.json5`)
@@ -82,7 +82,7 @@ entry/src/main/ets/
 1. **Clone** and open the project folder in **DevEco Studio**.
 2. Let DevEco run **`ohpm install`** (or `File → Sync`). `arkorm` is already a dependency in
    `entry/oh-package.json5`; no manual step needed.
-3. Pick a **device or emulator** (HarmonyOS Next).
+3. Pick a **device or emulator** (HarmonyOS).
 4. Click **Run ▶**.
 
 On first launch ArkORM creates `arkorm_demo.db`, builds the schema from the entity metadata,

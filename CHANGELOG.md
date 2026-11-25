@@ -4,7 +4,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ## [1.0.0] - 2026-06-26
 
-First stable release. A type-safe ORM for HarmonyOS Next (API 12+).
+First stable release. A type-safe ORM for HarmonyOS (API 12+).
 
 ### Sprint 1 — Metadata Engine
 - `MetadataRegistry` (Map-based, no `reflect-metadata`, two-phase prototype staging)
